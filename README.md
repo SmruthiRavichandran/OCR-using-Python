@@ -202,6 +202,4 @@ Make sure to follow the [Contributing Guidelines](CONTRIBUTING.md) and include t
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Would you like me to expand on any specific sections, such as installation steps, preprocessing techniques, or supported OCR backends?
